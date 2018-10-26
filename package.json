@@ -1,0 +1,29 @@
+{
+  "name": "luhn-algorithm",
+  "version": "1.0.0",
+  "description": "checks if a number respects the Luhn algorithm",
+  "main": "luhn-algorithm.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SylvainJunca/luhn-algorithm.git"
+  },
+  "keywords": [
+    "luhn",
+    "algorithm",
+    "test",
+    "check"
+  ],
+  "author": "Sylvain Junca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SylvainJunca/luhn-algorithm/issues"
+  },
+  "homepage": "https://github.com/SylvainJunca/luhn-algorithm#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
